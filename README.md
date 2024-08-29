@@ -30,3 +30,29 @@ Variable :-
 
 - const is a type of variable where we can't change our data.
 - const means constantto store some data like number, integer etc..
+
+Rules for Creating Variable Name :- 
+
+- variable names are case sensative i.e "a" & "A" is different.
+- Only Letter, digits, Underscore & special character is allowed. (white space is not allowed).
+- only letter, underscore & special character should be 1st character only. 
+- reserved words cannot be a variable names
+
+Datatypes in JS :- 
+
+- Datatypes is an attributes associated with a piece of data that tells a computer system how to interprit its value. 
+- In data types we used "typeof" operator to know that what type of data it is.
+- mainly in javascript their are 2types of data types.
+
+1. Primitive :- 
+    - In javascript there are 7 types of primitive data types are present.
+    
+    1. Number :- Number are the type of data types those it contain some numerical value. 
+    2. Boolean :- in Boolean data types we get boolean value like true & false
+    3. Undefiend :- in Undefiend data types the data is not define so that it will show undefiend.
+    4. Null :- In this data type we get null for the value means nothing.
+    5. bigInt :- in bigint we will get big integer value
+    6. String :- String is a type of data type that can hold some character like names or words
+    7. Symbol :- in symbol we will get whole symbol as well as the value we get for the data type. 
+
+2. Reference 
