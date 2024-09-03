@@ -96,3 +96,40 @@ Operator in Javascript :-
 3. Assignment Operator -> (=, +=, -=, *=,/=, %=, **=)
 4. Logical Operator -> (Logical and operator - &&),(logical or operator ||)
 5. Compairision Operator -> (==, !=, !==, ===)
+
+Conditional Statement in Javascript :- 
+
+- conditional statement are used to implement some condition in code.
+- there are 3 types of conditional statement are their in javascript 
+1. if condition :- 
+
+- if condition is true then statement is execute. 
+- syntax:- 
+if(condition) {
+    statement
+}
+
+2. if-else condition :- 
+
+- if condition is true then if block is executed otherwise its terminated to else condition. 
+- syntax :- 
+if (condition){
+    statement
+} else {
+    statement
+}
+
+3. else-if condition :- 
+
+- its check the condition multiple times where the condition is true. 
+- syntax :- 
+if (condition){
+    statement
+} else if (condition) {
+    statement
+} else if (condition) {
+    statement
+} else {
+    statement
+}
+
